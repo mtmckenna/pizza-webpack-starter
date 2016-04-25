@@ -1,4 +1,4 @@
 require("../css/app.css");
-var $ = require("jQuery");
+import { printPizzaFacts } from './pizza';
 
-$("body").text("I like pizza.");
+printPizzaFacts();
