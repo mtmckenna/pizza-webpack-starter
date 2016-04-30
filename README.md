@@ -15,5 +15,5 @@ This is the Webpack setup I use when futzing around with new JavaScript things.
 1. `$ npm test`
 
 ## Deploying
-1. `$ npm build`
+1. `$ npm run-script build`
 1. Deploy your `dist` directory somewhere, like [Netlify](https://netlify.com).
